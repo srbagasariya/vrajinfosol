@@ -1,13 +1,17 @@
 {
   "com.thophtv.freethoph.livecricket.tvthop": {
-    "status": 1,
-    "check_localad": "true",
-    "packagename": "",
-    "check_ad": "admob",
+    "check_localad": "on",
+    "packagename": "com.thophtv.freethoph.livecricket.tvthop",
+    "qureka_url": "ca-app-pub-3940256099942544/3419835294",
+    "check_qureka_mode": "on",
     "admob_appid": "ca-app-pub-3940256099942544~3347511713",
-    "admob_interid": "ca-app-pub-3940256099942544\/1033173712",
-    "fbinter1": "",
-    "fbbanner1": "",
-    "fbnative1": ""
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+    "admob_nativebannerid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_appopenid": "ca-app-pub-3940256099942544/3419835294",
+    "fb_interid": "ca-app-pub-3940256099942544/3419835294",
+    "fb_bannerid": "ca-app-pub-3940256099942544/3419835294",
+    "fb_native_bannerid": "ca-app-pub-3940256099942544/3419835294",
+    "fb_nativeid": "ca-app-pub-3940256099942544/3419835294",
   }
 }
