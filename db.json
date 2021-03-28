@@ -1,34 +1,13 @@
 {
-  "adkey_data": [
-    {
-      "name": "AdMob",
-      "sname": "Banner",
-      "key_data": "ca-app-pub-3940256099942544/6300978111",
-      "rev_status": "0"
-    },
-    {
-      "name": "AdMob",
-      "sname": "Interstitial",
-      "key_data": "ca-app-pub-3940256099942544/1033173712",
-      "rev_status": "0"
-    },
-    {
-      "name": "AdMob",
-      "sname": "Rewarded Video",
-      "key_data": "ca-app-pub-6605781248091306\/6179112925",
-      "rev_status": "0"
-    },
-    {
-      "name": "AdMob",
-      "sname": "App ID",
-      "key_data": "ca-app-pub-3940256099942544~3347511713",
-      "rev_status": "0"
-    },
-    {
-      "name": "AdMob",
-      "sname": "Native Banner",
-      "key_data": "ca-app-pub-3940256099942544/2247696110",
-      "rev_status": "0"
-    }
-  ]
+  "adkey_data": {
+    "status": 1,
+    "check_localad": "true",
+    "packagename": "",
+    "check_ad": "admob",
+    "admob_appid": "ca-app-pub-3940256099942544~3347511713",
+    "admob_interid": "ca-app-pub-3940256099942544\/1033173712",
+    "fbinter1": "",
+    "fbbanner1": "",
+    "fbnative1": ""
+  }
 }
