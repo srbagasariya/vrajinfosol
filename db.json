@@ -1,6 +1,6 @@
 {
   "com.thophtv.freethoph.livecricket.tvthop": {
-    "check_localad": "on",
+    "check_localad": "off",
     "packagename": "com.thophtv.freethoph.livecricket.tvthop",
     "qureka_url": "ca-app-pub-3940256099942544/3419835294",
     "check_qureka_mode": "on",
