@@ -9,9 +9,9 @@
     "admob_bannerid": "ca-app-pub-3940256099942544/630097811",
     "admob_nativebannerid": "ca-app-pub-3940256099942544/224769611",
     "admob_appopenid": "ca-app-pub-3940256099942544/341983529",
-    "fb_interid": "ca-app-pub-3940256099942544/3419835294",
-    "fb_bannerid": "ca-app-pub-3940256099942544/3419835294",
-    "fb_native_bannerid": "ca-app-pub-3940256099942544/3419835294",
-    "fb_nativeid": "ca-app-pub-3940256099942544/3419835294"
+    "fb_interid": "",
+    "fb_bannerid": "",
+    "fb_native_bannerid": "",
+    "fb_nativeid": ""
   }
 }
