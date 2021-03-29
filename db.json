@@ -3,7 +3,7 @@
     "check_localad": "off",
     "packagename": "com.thophtv.freethoph.livecricket.tvthop",
     "qureka_url": "ca-app-pub-3940256099942544/3419835294",
-    "check_qureka_mode": "on",
+    "check_qureka_mode": "off",
     "admob_appid": "ca-app-pub-3940256099942544~3347511713",
     "admob_interid": "ca-app-pub-3940256099942544/1033173712",
     "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
